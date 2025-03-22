@@ -1,0 +1,25 @@
+body{
+    background-color: whitesmoke;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: xx-large;
+    font-family: whitesmoke;
+}
+button{
+    height: 30px;
+    width: 100px;
+    background-color: whitesmoke;
+    color: black;
+}
+button:hover{
+    cursor: pointer;
+    background-color:whitesmoke;
+    color: black;
+}
+p{
+    color:black;
+    font-size: 20px;
+    font-weight: bold;
+}
